@@ -3,9 +3,11 @@ from tkinter import filedialog, scrolledtext, messagebox
 import threading
 import sys
 import os
-# --- INYECCIÓN DIRECTA DE LA API KEY PROPORCIONADA ---
-os.environ["GEMINI_API_KEY"] = "AIzaSyCRspgMqwDDUsY5R0iiFA7a1JQuYgLb0Ao"
-# -----------------------------------------------------
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
 
 import subprocess
 from pathlib import Path
