@@ -1,0 +1,123 @@
+﻿DocInfo/DescShort=Cualquiera
+DocInfo/Name=Tutorial de SC2
+LoadingScreen/TextBody=<s val="VoidLoadingIntroScreenBody">Bienvenido a StarCraft II, un juego de estrategia donde debes gestionar tu economía y tu base. ¡Ponte al frente de tu ejército, domina el campo de batalla y derrota a tus enemigos!<n/><n/>Puedes repetir este tutorial todas las veces que quieras antes de hacer que tus ejércitos alcancen la gloria en las campañas de un jugador.<n/><n/>¡Buena suerte, Comandante!</s>
+LoadingScreen/Tip=CONSEJOS: Esta es la zona de consejos.</n>Mientras se carga una misión, aquí aparecerán consejos útiles.
+LoadingScreen/TipRestart=CONSEJOS: Esta es la zona de consejos.</n>Mientras se carga una misión, aquí aparecerán consejos útiles.
+LoadingScreen/Title=<s val="VoidLoadingIntroScreenTitle">TUTORIAL</s>
+MapInfo/Player00/Name=Neutral
+MapInfo/Player01/Name=Jugador 1
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=Hostil
+Param/Expression/060AA342=Muta 3 cucarachas (~A~/3) /// Morph 3 Roaches (~A~/3)
+Param/Expression/0ABE06D5=Entrena 5 soldados en el barracón (~A~/5) /// Train 5 Marines at the Barracks (~A~/5)
+Param/Expression/0D76201F=Muta 6 zergling (~A~/6) /// Morph 6 Zerglings (~A~/6)
+Param/Expression/2F9B891F=Pon 12 VCE a recoger minerales (~A~/12) /// Have 12 SCVs Gathering Minerals (~A~/12)
+Param/Expression/3512FA52=Muta 2 zánganos (~A~/2) /// Morph 2 Drones (~A~/2)
+Param/Expression/35DA3936=Muta 6 zergling (~A~/6) /// Morph 6 Zerglings (~A~/6)
+Param/Expression/5243C422=Muta 2 zánganos (~A~/2) /// Morph 2 Drones (~A~/2)
+Param/Expression/BC1F4F8C=Invoca acechadores (~A~/2) /// Warp In Stalkers (~A~/2)
+Param/Expression/BC77B71D=Pon 3 zánganos a recoger gas vespeno (~A~/3) /// Have 3 Drones Gathering Vespene Gas (~A~/3)
+Param/Expression/CD6B2949=Invoca fanáticos (~A~/4) /// Warp In Zealots (~A~/4)
+Param/Value/00212A2F=Invoca un núcleo cibernético /// Warp In Cybernetics Core
+Param/Value/0025124A=Pulsa <k val="ArmySelect"/> para seleccionar todas las unidades de tu ejército
+Param/Value/03B2DA56=cronómetro recordatorio: en marcha
+Param/Value/0611CA72=Muta una madriguera de cucarachas /// Morph a Roach Warren
+Param/Value/06E796BE=Continuar
+Param/Value/083D00A9=Entrena unidades de infantería terran.
+Param/Value/09C6FDB6=Ordena a un <c val="F58C46">zángano </c>que recolecte <c val="F58C46">minerales</c> aquí. /// Order a <c val="F58C46">Drone </c>to gather here to harvest <c val="F58C46">Minerals</c>.
+Param/Value/149D698E=Ordena a un zángano que mute en un extractor aquí para recolectar gas vespeno. /// Order a Drone to mutate into an Extractor here to gather vespene gas.
+Param/Value/15F7E68C=Muta 6 zergling (0/6)
+Param/Value/1946EB64=Las larvas mutan en unidades zerg dentro de un capullo, que las protege mientras mutan.
+Param/Value/1A3080A1=Permite: Acechadores en el acceso.
+Param/Value/1C6DEA57=Muta en unidades zerg.
+Param/Value/20A97C0F=Ordena a una sonda que invoque un asimilador aquí para recolectar gas vespeno.
+Param/Value/22E0AB4F=Permite que las <c val="F58C46">larvas</c> muten en <c val="F58C46">zergling</c>.
+Param/Value/25045940=Investigar presencia zerg /// Investigate Zerg Presence
+Param/Value/25672746=Ordena a un zángano que recolecte minerales aquí.
+Param/Value/2DD9E85B=Estructura de producción terran.<n/>Entrena <c val="9BFFBE">soldados</c>.
+Param/Value/2EB522F6=cronómetro recordatorio: parado
+Param/Value/34AD3284=Estructura terran básica. Recibe los recursos recolectados.
+Param/Value/35A6BA86=Ordena a una sonda que recolecte gas vespeno.
+Param/Value/3663E276=Comenzar
+Param/Value/36CA51AE=Repetición
+Param/Value/3A36710D=Muta 3 cucarachas (3/3)
+Param/Value/3AA1E772=Se ha alcanzado el límite de suministros
+Param/Value/3B33CE39=Encontrar a los exploradores desaparecidos
+Param/Value/3EBB4915=Estructura protoss básica. Recibe los recursos recolectados.
+Param/Value/409A87AF=Aumenta los <c val="6EAAFF">suministros</c>.<n/>Da energía a las estructuras cercanas.
+Param/Value/41906153=Ordena a una <c val="6EAAFF">sonda </c>que recolecte <c val="6EAAFF">gas vespeno</c>.
+Param/Value/4566D61A=Muta 2 zánganos (0/2)
+Param/Value/4979208A=Fuente de <c val="6EAAFF">gas vespeno</c>.<n/>Una <c val="6EAAFF">sonda</c> puede invocar un <c val="6EAAFF">asimilador</c> aquí.
+Param/Value/49E21733=Aumenta los suministros. Todas las unidades vivas requieren suministros. Muta a partir de la larva.
+Param/Value/4AC8EC25=Restaura la energía de los accesos /// Restore Power to Gateways
+Param/Value/4CC66038=Entrena 5 soldados en el barracón (x/5)
+Param/Value/5AD9854A=para mover la cámara
+Param/Value/5B220937=Si ordenas un ataque sobre tus propias unidades, estas sufrirán fuego amigo.<n/><n/>Da una nueva orden para evitar infligir daño a tu unidad.
+Param/Value/5C31BF6E=te faltan suministros.<n/><n/>Arréglalo.
+Param/Value/5C71211B=Repetición
+Param/Value/5F2EC6B5=Ordena a un VCE que recolecte minerales aquí.
+Param/Value/6067967B=Estructura protoss básica.<n/>Invoca <c val="6EAAFF">sondas</c>.
+Param/Value/615DF885=Invoca unidades terrestres protoss.
+Param/Value/61B367DF=Recolecta recursos.<n/>Construye estructuras terran.
+Param/Value/649DE85D=Invoca acechadores (0/2)
+Param/Value/65656677=Muta un superamo /// Morph an Overlord
+Param/Value/66F71B7F=Construye un barracón /// Construct a Barracks
+Param/Value/68B2F417=Recolecta recursos. Invoca estructuras protoss.
+Param/Value/69F2D82B=Repetición
+Param/Value/6CC06F6D=Recolecta recursos.<n/>Invoca estructuras protoss.
+Param/Value/6CDF59C9=Muta un zángano en un extractor /// Morph a Drone into an Extractor
+Param/Value/6EE9EB0C=Advertencia de fuego amigo
+Param/Value/6FFAD107=Construye un depósito de suministros
+Param/Value/741E99E6=Ordena a un zángano que recolecte gas vespeno.
+Param/Value/76190D3C=Permite que las <c val="F58C46">larvas</c> muten en <c val="F58C46">cucarachas</c>.
+Param/Value/766FC4C8=Las unidades que reciban la orden de mover no se defenderán.<n/><n/>Da la orden de atacar-mover ahora para que puedan entrar en combate.
+Param/Value/7748A400=Ordena a una sonda que recolecte minerales aquí.
+Param/Value/7CDE83E3=Muta 3 cucarachas (0/3)
+Param/Value/85B9E264=Estructura terran básica.<n/>Entrena <c val="9BFFBE">VCE</c>.
+Param/Value/873F5CEF=Recolecta recursos y muta en estructuras zerg.
+Param/Value/89EE4EA0=Ordena a un VCE que construya una refinería aquí para recolectar gas vespeno.
+Param/Value/8CDD1103=Recolecta recursos. Construye estructuras terran.
+Param/Value/904D759D=Continuar
+Param/Value/918120CE=Ordena a un <c val="F58C46">zángano </c>que recolecte <c val="F58C46">gas vespeno</c> aquí.
+Param/Value/93807861=Has alcanzado el límite de suministros y no puedes invocar más unidades.<n/><n/>Ordena a una sonda que invoque un pilón para aumentar el límite de suministros.
+Param/Value/9731852B=Pon 12 VCE a recoger minerales (x/12)
+Param/Value/99B113B8=Continuar
+Param/Value/99D5CDF1=Destruye la base terran /// Destroy Terran Base
+Param/Value/9D2A7F65=Muta una reserva de reproducción /// Morph a Spawning Pool
+Param/Value/9DD479C5=Aumenta los suministros. Todas las unidades vivas requieren suministros.
+Param/Value/9E667E6A=Estructura de producción primaria.<n/>Genera <c val="F58C46">larvas</c> y <c val="F58C46">biomateria</c> de forma automática.
+Param/Value/A043B992=Protege la <c val="F58C46">larva</c> mientras muta.
+Param/Value/A5DA8ED3=cronómetro recordatorio: reiniciar
+Param/Value/A8D3D041=Ordena a un <c val="9BFFBE">VCE </c>que recolecte <c val="9BFFBE">minerales</c> aquí.
+Param/Value/AB112623=Fuente de <c val="F58C46">gas vespeno</c>.<n/>Un <c val="F58C46">zángano</c> puede mutar en un <c val="F58C46">extractor</c> aquí.
+Param/Value/AB84D224=Fuente de <c val="9BFFBE">gas vespeno</c>.<n/>Un <c val="9BFFBE">VCE</c> puede construir una <c val="9BFFBE">refinería</c> aquí.
+Param/Value/AF605FA7=Muta en unidades <c val="F58C46">zerg</c>.<n/>Se engendra en el <c val="F58C46">criadero</c>.
+Param/Value/B1476F4B=Estructura terran básica.<n/>Entrena <c val="9BFFBE">VCE</c>.
+Param/Value/BBEE5855=Crea un campo energético para otras estructuras protoss.
+Param/Value/C2090234=Repetición
+Param/Value/C25092A4=Repetición
+Param/Value/C25963A3=Destruye a los terran infestados /// Destroy Infested Terrans
+Param/Value/C424FE98=Permite que las larvas muten en cucarachas.
+Param/Value/C49170BF=Estructura de producción primaria.<n/>Entrena <c val="6EAAFF">fanáticos</c> y <c val="6EAAFF">acechadores</c>.
+Param/Value/C4C67C62=Advertencia de orden de mover
+Param/Value/C52DEBCB=Has alcanzado el límite de suministros y no puedes entrenar más unidades.<n/><n/>Ordena a un VCE que construya un depósito de suministros para aumentar el límite de suministros.
+Param/Value/C5B09D1D=Aumenta los <c val="9BFFBE">suministros</c>.<n/>Todas las unidades vivas requieren <c val="9BFFBE">suministros</c>.
+Param/Value/C7A4C2FF=Repetición
+Param/Value/C9B7F176=Permite que las larvas muten en zergling.
+Param/Value/CB0A159A=Repetición
+Param/Value/D3290F36=Ordena a una <c val="6EAAFF">sonda </c>que recolecte <c val="6EAAFF">minerales</c> aquí.
+Param/Value/D339E5FA=Repetición
+Param/Value/DC8FF503=Permite <c val="6EAAFF">acechadores</c> en el <c val="6EAAFF">acceso</c>.
+Param/Value/DD6888EE=Repetición
+Param/Value/DDE0FEA0=Aumenta los <c val="F58C46">suministros</c>.<n/>Todas las unidades vivas requieren <c val="F58C46">suministros</c>.
+Param/Value/DDE7DB91=Estructura terran básica. Recibe los recursos recolectados.
+Param/Value/E0F1123C=Aguanta hasta que llegue la flota /// Hold Out While Fleet Arrives
+Param/Value/E1BFE97B=Retírate a una ubicación segura /// Retreat to Safe Location
+Param/Value/E3AB747E=Genera de forma automática larvas y biomateria.
+Param/Value/E6646AF6=Pon 3 zánganos a recoger gas vespeno (0/3)
+Param/Value/E6BD06E9=Repetición
+Param/Value/E8238A60=Invoca fanáticos (0/4)
+Param/Value/F34661CF=Has alcanzado el límite de suministros y no puedes mutar más unidades.<n/><n/>Ordena a una larva que mute en un superamo para aumentar el límite de suministros.
+Param/Value/F7D4D686=Recolecta recursos. <n/>Muta en estructuras <c val="F58C46">zerg</c>.
+UI/GameMenuEndGame_Control=<h/>Terminar tutorial
+UI/GameMenuQuit_Control=A<h/>bandonar tutorial

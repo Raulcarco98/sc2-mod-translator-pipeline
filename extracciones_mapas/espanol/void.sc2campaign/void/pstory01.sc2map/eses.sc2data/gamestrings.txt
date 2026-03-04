@@ -1,0 +1,15 @@
+﻿DocInfo/Author=Autor desconocido
+DocInfo/Name=Historia de Void
+MapInfo/Player00/Name=
+MapInfo/Player01/Name=
+MapInfo/Player02/Name=Jugador 2
+MapInfo/Player03/Name=
+Param/Expression/35E7C92D=<c val="FFFF00">~A~</c>
+Param/Expression/AE9FE1F9=Ejército visitado: ~A~
+Param/Value/26F13D15=Evento de sala no válido en PS_EventUIBottomBarClicked
+Param/Value/910E1E27=¡Próximamente(TM)!
+UserData/Scenes/Alpha02_Description=Artanis se dispone a enviar un escuadrón de élite para recuperar el artefacto y, a continuación, atacar al Escuadrón Alfa. Se preguntan qué hay que hacer. Alarak dice que deberían matarlos a todos. Mohandar no se muestra conforme, pero Artanis (y el jugador) no piensa permitir que este mal persista. Ha llegado el momento de resarcirse, de vengarse. Sin embargo, la Dae’uhl prohíbe la quema de mundos sin haber una causa mayor, y se trata de un arma de la Lanza de Adun… pero la Dae’uhl no afecta a Amon.
+UserData/Scenes/Alpha02_Name=Antes de Alpha02
+UserData/Timestamps/Purifier02Arrival_Description=Nave purificadora
+UserData/Timestamps/Purifier02Arrival_Title=CYBROS
+UserData/Timestamps/UlnarArrival_Title=UBICACIÓN DESCONOCIDA

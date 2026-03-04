@@ -1,0 +1,32 @@
+# Ambientes virtuales
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de entorno y secretos
+.env
+secretos/
+claves/
+*.key
+
+# Carpetas de trabajo pesado (Pipeline SC2)
+temp_workdir/
+dist_comercial/
+mods_traducidos_final/
+Nueva carpeta/
+MODS/
+
+# Bases de datos JSON de Starcraft 2 pesadas
+# glosario_oficial.json
+# estado_traduccion.json
+
+# Archivos log
+*.log
+logs/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,100 @@
+﻿DocInfo/Author=Blizzard Entertainment
+DocInfo/Name=Murmullos oscuros
+LoadingScreen/TextBody=<s val="VoidLoadingIntroScreenBody">Vivimos una era de incertidumbre. El Dios Oscuro, Amon, ha vuelto a la vida en un mundo desconocido, anunciando el fin de toda vida en el sector Koprulu.<n/><n/>Antes de regresar ante su pueblo para someterse a su juicio, Zeratul recorre la galaxia en busca de una forma de detener la oscuridad que se avecina. En esta hora intempestiva, busca los últimos fragmentos de una profecía ancestral que podría arrojar un rayo de esperanza.</s>
+LoadingScreen/Tip=Expandirte a una ubicación nueva con recursos te permite acelerar la producción de unidades y te ayuda a afianzar tu posición más cerca del frente de batalla.
+LoadingScreen/TipRestart=El Enjambre atacará el reactor periódicamente. Evítalo y centra tus ataques en la Organización Moebius.
+LoadingScreen/Title=<s val="VoidLoadingIntroScreenTitle">MURMULLOS DE MUERTE</s>
+MapInfo/Player00/Name=
+MapInfo/Player01/Name=Zeratul
+MapInfo/Player02/Name=Organización Moebius
+MapInfo/Player03/Name=Organización Moebius
+MapInfo/Player04/Name=Organización Moebius
+MapInfo/Player05/Name=Zerg de Kerrigan
+MapInfo/Player06/Name=Zerg de Kerrigan
+MapInfo/Player07/Name=Zerg de Kerrigan
+MapInfo/Player08/Name=Zerg de Kerrigan
+MapInfo/Player09/Name=Organización Moebius
+MapInfo/Player10/Name=Protoss cautivos
+MapInfo/Player11/Name=Organización Moebius
+MapInfo/Player12/Name=Hostil
+Param/Value/012B3B55=Protoss cautivos
+Param/Value/08A1D61D=Crea un campo de energía para otras estructuras protoss /// Creates power field for other Protoss structures.
+Param/Value/1057D07C=Permite: <c val="00FFFF">Acechadores</c> y <c val="00FFFF">centinelas</c> en el <c val="00FFFF">acceso</c>.
+Param/Value/11A08C5E=Permite: Acechadores en el acceso. /// Enables Stalkers at the Gateway.
+Param/Value/15B27070=Aumenta los <c val="00FFFF">suministros</c>.<n/>Lo invocan las <c val="00FFFF">sondas</c>.
+Param/Value/1711C131=Primeros protoss rescatados
+Param/Value/18D45599=Fuerzas del Enjambre reuniéndose
+Param/Value/1920C875=Protoss cautivos
+Param/Value/1B5CA85A=Fuente de <c val="00FFFF">gas vespeno</c>.<n/>Una <c val="00FFFF">sonda</c> puede invocar un <c val="00FFFF">asimilador</c> aquí. /// Source of <c val="00FFFF">vespene gas</c>.<n/>A <c val="00FFFF">Probe</c> can warp in an <c val="00FFFF">Assimilator</c> here.
+Param/Value/1BE1C112=Utiliza cualquier unidad terrestre para recogerlo
+Param/Value/1ECE4B4E=Estructura <c val="00FFFF">protoss</c> básica.<n/>Invoca <c val="00FFFF">sondas</c>. /// Primary <c val="00FFFF">Protoss</c> structure.<n/>Warps in <c val="00FFFF">Probes</c>.
+Param/Value/1F73A171=Terran asesinados durante la invocación
+Param/Value/224BAC88=Pilón robado /// Stolen Pylon
+Param/Value/250E6D51=Reactor de estación
+Param/Value/2545E670=Puente extendido
+Param/Value/264DC875=Fuerzas del Enjambre reuniéndose
+Param/Value/2A9170DC=Reactor de estación
+Param/Value/2AD424F2=Permite: <c val="00FFFF">Altos templarios</c> en el <c val="00FFFF">acceso</c>. /// Enables <c val="00FFFF">High Templar</c> at the <c val="00FFFF">Gateway</c>.
+Param/Value/2C2BD713=Fuerzas atrincheradas
+Param/Value/31FE2652=Fuerzas del Enjambre reuniéndose
+Param/Value/3361BDEA=Buscador de Vacío
+Param/Value/36B9565E=Recolecta recursos. Invoca estructuras protoss.
+Param/Value/3AFF093D=Reunión de tropas zerg
+Param/Value/3BE9C638=Los protoss cautivos están dentro.
+Param/Value/3E22C200=Base zerg
+Param/Value/3EA10D89=Estructura de <c val="00FFFF">producción</c> primaria. Invoca <c val="00FFFF">guerreros</c>. /// Primary <c val="00FFFF">production</c> structure. Warps in <c val="00FFFF">warriors</c>.
+Param/Value/4300C019=Estructura protoss básica. Recibe los recursos recolectados. /// Primary Protoss structure. Receives gathered resources.
+Param/Value/44CA44BC=Protoss cautivos
+Param/Value/46996082=Permite: <c val="00FFFF">Colosos</c> en la <c val="00FFFF">bahía robótica</c>. /// Enables <c val="00FFFF">Colossi</c> at the <c val="00FFFF">Robotics Facility</c>.
+Param/Value/484FACD6=Tiene mejoras para unidades terrestres y escudos. /// Contains upgrades for ground units and shields.
+Param/Value/4E891A2D=Ordena a una <c val="00FFFF">sonda </c>que recolecte <c val="00FFFF">minerales</c> aquí. /// Order a <c val="00FFFF">Probe </c>to gather here to harvest <c val="00FFFF">Minerals</c>.
+Param/Value/512FC8EB=Permite: Colosos en el acceso. /// Enables Colossi at the Gateway.
+Param/Value/53251337=Utiliza cualquier unidad terrestre para recogerlo
+Param/Value/5FDA7620=Fuente de <c val="00FFFF">gas vespeno</c>.<n/>Una <c val="00FFFF">sonda</c> puede invocar un <c val="00FFFF">asimilador</c> aquí. /// Source of <c val="00FFFF">vespene gas</c>.<n/>A <c val="00FFFF">Probe</c> can warp in an <c val="00FFFF">Assimilator</c> here.
+Param/Value/619DF54F=Unidades asesinadas por los zerg
+Param/Value/66C70690=Permite invocar: <c val="00FFFF">Archivos templarios</c> y <c val="00FFFF">santuarios tétricos</c>.
+Param/Value/6B7EC552=Ordena a una sonda que recolecte minerales aquí.
+Param/Value/6E88D525=Fuerza de ataque de Moebius
+Param/Value/6F60C530=Permite invocar: Archivos templarios y santuarios tétricos.
+Param/Value/72EA495C=Estructura de <c val="00FFFF">producción</c> primaria. Invoca <c val="00FFFF">guerreros</c>. /// Primary <c val="00FFFF">production</c> structure. Warps in <c val="00FFFF">warriors</c>.
+Param/Value/7527F2CE=Protoss cautivos
+Param/Value/7B19B328=Utiliza cualquier unidad terrestre para recogerlo
+Param/Value/7B9A8592=Protoss cautivos
+Param/Value/8412AECF=Fuerzas del Enjambre reuniéndose
+Param/Value/8C7621C3=Invoca robots de apoyo protoss. /// Warps in Protoss robotic support.
+Param/Value/8CAC7446=Reactor central
+Param/Value/8D1AC3AC=Permite: Templarios tétricos en el acceso. /// Enables Dark Templar at the Gateway.
+Param/Value/8E63B89B=El Enjambre de Kerrigan ha destruido el reactor de la estación.
+Param/Value/8F587913=Reunión de tropas zerg
+Param/Value/8F9B696F=Atacar
+Param/Value/9549FDCD=Siguientes protoss rescatados
+Param/Value/975FFC5E=Enjambre zerg /// Zerg Swarm
+Param/Value/986749C0=Contiene <c val="00FFFF">mejoras</c> para <c val="00FFFF">unidades terrestres</c> y <c val="00FFFF">escudos</c>. /// Contains <c val="00FFFF">upgrades</c> for <c val="00FFFF">ground units</c> and <c val="00FFFF">shields</c>.
+Param/Value/9875DFFB=Unidades zerg asesinadas
+Param/Value/9AEAD0AD=Reunión de tropas zerg
+Param/Value/9CC5E0C4=Reunión de tropas zerg
+Param/Value/9E3D2EEE=Zerg de Kerrigan
+Param/Value/A5A6CA4F=Consejos
+Param/Value/A9C5B698=Invoca guerreros protoss. /// Warps in Protoss warriors.
+Param/Value/AC1BC555=Estructura de <c val="00FFFF">defensa</c> primaria. Puede <c val="00FFFF">detectar</c> unidades invisibles o enterradas. /// Primary <c val="00FFFF">defense</c> structure. Can <c val="00FFFF">detect</c> cloaked or buried units.
+Param/Value/AC3E295E=Permite: Altos templarios en el acceso. /// Enables High Templar at the Gateway.
+Param/Value/ADADAE3D=Debe destruirse para liberar a los <c val="00FFFF">protoss cautivos</c> que hay dentro. /// Destroy to free the <c val="00FFFF">protoss captives</c> held inside.
+Param/Value/B9498410=Estructura defensiva. Puede detectar unidades invisibles o enterradas. /// Defensive structure.  Can detect cloaked or buried units.
+Param/Value/C1D33998=Invoca guerreros protoss. /// Warps in Protoss warriors.
+Param/Value/C6F4F752=Reunión de tropas zerg
+Param/Value/C7C1B5CB=Ordena a una <c val="00FFFF">sonda </c>que recolecte <c val="00FFFF">vespeno</c>. /// Order a <c val="00FFFF">Probe </c>to gather here to harvest <c val="00FFFF">Vespene</c>.
+Param/Value/D267554B=Zerg de Kerrigan
+Param/Value/D5F0D55F=Permite: <c val="00FFFF">Templarios tétricos</c> en el <c val="00FFFF">acceso</c>.
+Param/Value/D6B39318=<sp/>
+Param/Value/D8ECF263=Pilón reclamado
+Param/Value/D9575E86=Pilón
+Param/Value/DC4AB7F9=Recolecta <c val="00FFFF">recursos</c>.<n/>Invoca estructuras <c val="00FFFF">protoss</c>. /// Gathers <c val="00FFFF">resources</c>.<n/>Warps in <c val="00FFFF">Protoss</c> structures.
+Param/Value/DE30DBC3=Utiliza cualquier unidad terrestre para recogerlo
+Param/Value/E5FB7BCB=Pilón reclamado
+Param/Value/E8C6E1C9=5 días
+Param/Value/E95A0106=Ubicación de inicio
+Param/Value/EE34EA5B=Fuerzas del Enjambre reuniéndose
+Param/Value/F1AEE3F5=Estructura de <c val="00FFFF">producción</c> secundaria. Invoca <c val="00FFFF">robots de apoyo</c>. /// Secondary <c val="00FFFF">production</c> structure. Warps in <c val="00FFFF">robotic support</c>.
+Param/Value/F8D811CE=Nave de Zeratul
+Param/Value/FC0F917E=Protoss cautivos
+Param/Value/FCAC5425=Han destruido todas tus estructuras.

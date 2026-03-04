@@ -1,0 +1,5 @@
+DocInfo/Author=Autor desconocido /// Unknown Author
+DocInfo/Name=Estación Skygeirr /// Skygeirr Station
+MapInfo/Player00/Name=Neutral /// Neutral
+MapInfo/Player01/Name=Jugador 1 /// Player 1
+MapInfo/Player02/Name=Hostil /// Hostile

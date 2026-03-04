@@ -1,0 +1,6 @@
+DocInfo/Author=Autor desconocido /// Unknown Author
+DocInfo/Name=Espacio del Dominio /// Dominion Space
+MapInfo/Player00/Name=Neutral /// Neutral
+MapInfo/Player01/Name=Jugador 1 /// Player 1
+MapInfo/Player02/Name=Hostil /// Hostile
+Param/Value/83CF7AAA=Cargando... /// Loading...

@@ -1,0 +1,4 @@
+DocInfo/Author=Autor desconocido /// Unknown Author
+DocInfo/Name=Kaldir /// Kaldir
+MapInfo/Player02/Name=Lasarra /// Lasarra
+MapInfo/Player03/Name=Hostil /// Hostile

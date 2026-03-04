@@ -1,0 +1,7 @@
+DocInfo/Author=Autor desconocido /// Unknown Author
+DocInfo/Name=Heart of the Swarm /// Heart of the Swarm
+LoadingScreen/Tip=</sp> ///  
+LoadingScreen/Title=</sp> ///  
+MapInfo/Player00/Name=Neutral /// Neutral
+MapInfo/Player01/Name=Jugador 1 /// Player 1
+MapInfo/Player02/Name=Hostil /// Hostile

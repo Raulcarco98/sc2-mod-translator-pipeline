@@ -1,0 +1,2 @@
+﻿Conversation/vpCutscene_PrologueIntro/Line00001=Como se predijo, Amon, el Dios Oscuro, ha vuelto a la vida. La esperanza de nuestra galaxia está en manos de los Xel'Naga.
+Conversation/vpCutscene_PrologueIntro/Line00010=¿El Enjambre? Voy de camino, Talis. Que Adun te guarde hasta mi llegada.
